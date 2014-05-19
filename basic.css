@@ -1,0 +1,28 @@
+/*
+ * SimpleModal Basic Modal Dialog
+ * http://www.ericmmartin.com/projects/simplemodal/
+ * http://code.google.com/p/simplemodal/
+ *
+ * Copyright (c) 2010 Eric Martin - http://ericmmartin.com
+ *
+ * Licensed under the MIT license:
+ *   http://www.opensource.org/licenses/mit-license.php
+ *
+ * Revision: $Id: basic.css 238 2010-03-11 05:56:57Z emartin24 $
+ *
+ */
+
+#modal-5301, #modal-5301en, #modal-5302, #modal-5302en, #modal-0111, #modal-0111en, #modal-5252, #modal-5252en, #modal-5253, #modal-5253en, #modal-5254, #modal-5254en, #modal-4357, #modal-4357en, #modal-5803, #modal-5803en, #modal-firefox, #modal-firefoxen {display:none; text-align: left; }
+
+/* Overlay */
+#simplemodal-overlay {background-color:#000; cursor:wait;}
+
+/* Container */
+#simplemodal-container {height:295px; width:500px; color:#fff; background: #1d3657 url('images/pozadi2.png') repeat-x 50% 0%; border:4px solid #5d99c8; padding:12px 32px 12px 32px; }
+#simplemodal-container a.modalCloseImg {background:url('images/x.png') no-repeat; width:25px; height:29px; display:inline; z-index:3200; position:absolute; top:-15px; right:-16px; cursor:pointer;}
+#simplemodal-container h3 { margin: 15px 0 18px 0; }
+#simplemodal-container img {  
+  border: 7px solid white;
+  float: right;
+  margin: 0px 0 10px 10px;
+  }
