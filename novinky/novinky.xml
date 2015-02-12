@@ -1,6 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <novinky>
-  <novinka datum="10. 5. 2014">
+  <novinka datum="20. 11. 2014">
+    <czobsah>
+      <![CDATA[
+      <p>###datum### Sme veľmi radi, že aj tento rok sa nám podarilo zohnať špeciálneho hosťa, ktorého vyspovedáme počas nášho vystúpenia. Plagát hovorí za všetko, máte sa na čo tešiť! </p>
+      <img src="airshows/VFAT_2014_skupina_chvojka.png" class="noborder" width="100%" alt="Pozvánka na VFAT 2014 - Chvojka">
+      ]]>
+    </czobsah>
+    <enobsah>
+      <![CDATA[
+      <p>###datum### We are pleased to announce a special guest narrator for this year's VFAT 2014. See for yourself! </p>
+      <p>For more info have a look at <a href="http://www.virtual-airshows.com/">www.virtual-airshows.com</a> or our facebook</p>
+      <img src="airshows/VFAT_2014_skupina_chvojka.png" class="noborder" width="100%" alt="VFAT 2014 invitation - Chvojka">
+      ]]>
+    </enobsah>
+  </novinka>
+  <novinka datum="10. 11. 2014">
+    <czobsah>
+      <![CDATA[
+      <p>###datum### V neděli 23.11. se budeme těšit na vaši podporu na VFAT 2014!</p>
+      <p>Více informací na <a href="http://www.virtual-airshows.com/">www.virtual-airshows.com</a> a našem facebooku</p>
+      <img src="airshows/VFAT_2014_skupina.jpg" class="noborder" width="100%" alt="Pozvánka na VFAT 2014">
+      ]]>
+    </czobsah>
+    <enobsah>
+      <![CDATA[
+      <p>###datum### We have been accepted for VFAT 2014 so you can start looking forward our show on Sunday November 23rd!</p>
+      <p>For more info have a look at <a href="http://www.virtual-airshows.com/">www.virtual-airshows.com</a> or our facebook</p>
+      <img src="airshows/VFAT_2014_skupina.jpg" class="noborder" width="100%" alt="VFAT 2014 invitation">
+      ]]>
+    </enobsah>
+  </novinka>  
+  <novinka datum="10. 11. 2014">
     <czobsah>
       <![CDATA[
       <p>###datum### Srdečne Vás pozývame na Noc Muzeí a Galérií, ktorá sa uskutoční v areáli Vojenského Historického Múzea v Piešťanoch.</p>

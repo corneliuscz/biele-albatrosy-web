@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <airshows>
+  <airshow datum="21.-23.11.2014">
+    <czobsah>
+      <![CDATA[
+      <a href="http://www.virtual-airshows.com/">Virtual Festival of Aerobatic Teams 2014</a><br />
+      Viac informácií o VFAT 2014 na <a href="http://http://www.virtual-airshows.com/">www.virtual-airshows.com</a>
+      ]]>
+    </czobsah>
+    <enobsah>
+      <![CDATA[
+      <a href="http://www.virtual-airshows.com/">Virtual Festival of Aerobatic Teams 2014</a><br />
+      More information about VFAT 2014 at <a href="http://http://www.virtual-airshows.com/">www.virtual-airshows.com</a>
+      ]]>
+    </enobsah>
+  </airshow>
   <airshow datum="25.-26.10.2014">
     <czobsah>
       <![CDATA[
@@ -11,20 +25,6 @@
       <![CDATA[
       <a href="http://www.vuaf.co.uk/">Virtual United Air Festival 2014</a><br />
       More information about VUAF 2014 at <a href="http://www.vuaf.co.uk">www.vuaf.co.uk/</a>
-      ]]>
-    </enobsah>
-  </airshow>
-  <airshow datum="17.5.2014">
-    <czobsah>
-      <![CDATA[
-      <a href="http://www.nocmuzei.sk/nocmuzeiagalerii/nmg2014/?obj=vhu_vmpn">Noc Muzeí a Galérií v areáli Vojenského Historického Múzea v Piešťanoch</a><br />
-      Viac informácií na <a href="http://www.nocmuzei.sk/nocmuzeiagalerii/nmg2014/?obj=vhu_vmpn">www.nocmuzei.sk</a>
-      ]]>
-    </czobsah>
-    <enobsah>
-      <![CDATA[
-      <a href="http://www.nocmuzei.sk/nocmuzeiagalerii/nmg2014/?obj=vhu_vmpn">Museum and Gallery Night in the Military History Museum Piešťany (SK)</a><br />
-      More information at <a href="http://www.nocmuzei.sk/nocmuzeiagalerii/nmg2014/?obj=vhu_vmpn">www.nocmuzei.sk</a>
       ]]>
     </enobsah>
   </airshow>
